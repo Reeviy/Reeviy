@@ -12,7 +12,7 @@ Electrical Engineering**
 
 - 💬 Ask me about **My Quality of Life Projects**
 
-- 📫 How to reach me **reever.andres1@gmail.com**
+- 📫 How to reach me **reevbsns@gmail.com**
 
 - ⚡ Fun fact **I spend a little too much time hyper-optimising everything.**
 
