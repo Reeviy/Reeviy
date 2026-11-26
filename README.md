@@ -18,8 +18,6 @@ Electrical Engineering**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Reeviy](https://github.com/Reeviy)**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1r5HEwwpcaLdbR0uZyZoUg1xWMo0z2GUDlccJ__FSrQc/edit?usp=drive_link](https://docs.google.com/document/d/1r5HEwwpcaLdbR0uZyZoUg1xWMo0z2GUDlccJ__FSrQc/edit?usp=drive_link)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Reeviy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Reeviy" height="30" width="40" /></a>
